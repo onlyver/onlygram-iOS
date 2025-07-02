@@ -1,14 +1,15 @@
 {
-	"bundle_id": "org.{! a random string !}.Telegram",
-	"api_id": "{! get one at https://my.telegram.org/apps !}",
-	"api_hash": "{! get one at https://my.telegram.org/apps !}",
-	"team_id": "{! check README.md !}",
-	"app_center_id": "0",
-	"is_internal_build": "true",
-	"is_appstore_build": "false",
-	"appstore_id": "0",
-	"app_specific_url_scheme": "tg",
-	"premium_iap_product_id": "",
-	"enable_siri": false,
-	"enable_icloud": false
+    "bundle_id": "com.onlyver.Telegram",
+    "api_id": "8",
+    "api_hash": "7245de8e747a0d6fbe11f7cc14fcc0bb",
+    "team_id": "WZAD5XAHMB",
+    "app_center_id": "0",
+    "is_internal_build": "true",
+    "is_appstore_build": "false",
+    "appstore_id": "0",
+    "app_specific_url_scheme": "tg",
+    "premium_iap_product_id": "",
+    "enable_siri": false,
+    "enable_icloud": false,
+    "entitlementsFilePath": "../Telegram/Telegram.entitlements"
 }

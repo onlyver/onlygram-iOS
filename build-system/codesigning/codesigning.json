@@ -1,0 +1,26 @@
+{
+  "com.onlyver.Telegram": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/Telegram.mobileprovision"
+  },
+  "com.onlyver.Telegram.NotificationService": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/NotificationService.mobileprovision"
+  },
+  "com.onlyver.Telegram.NotificationContent": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/NotificationContent.mobileprovision"
+  },
+  "com.onlyver.Telegram.Share": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/Share.mobileprovision"
+  },
+  "com.onlyver.Telegram.Widget": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/Widget.mobileprovision"
+  },
+  "com.onlyver.Telegram.BroadcastUpload": {
+    "certificateSHA1": "9390509ACD3156498D58314800D6550BFA8369F0",
+    "mobileProvisionPath": "build-system/codesigning/profiles/BroadcastUpload.mobileprovision"
+  }
+}
